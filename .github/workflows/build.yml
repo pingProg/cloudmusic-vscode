@@ -10,6 +10,8 @@ on:
       - master
       - dev
 
+#TEST
+
 jobs:
   build-macos:
     name: Build for macos
