@@ -10,7 +10,7 @@ on:
       - master
       - dev
 
-#TEST
+#TEST 1
 
 jobs:
   build-macos:
