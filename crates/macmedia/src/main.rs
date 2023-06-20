@@ -10,7 +10,7 @@ use {
     },
 };
 
-//TEST GITHUB WORKFLOW BUILD
+//BUILD 2
 
 #[derive(Debug)]
 enum CustomEvent {
