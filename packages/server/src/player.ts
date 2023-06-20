@@ -134,6 +134,7 @@ abstract class PlayerBase {
     }
 
     this._loaded?.();
+    this.pause();
   }
 
   toggle(): void {
