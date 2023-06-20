@@ -40,5 +40,7 @@
   },
   "typescript.enablePromptUseWorkspaceTsdk": true,
   "typescript.tsc.autoDetect": "off",
-  "typescript.tsdk": ".yarn/sdks/typescript/lib"
+  "typescript.tsdk": ".yarn/sdks/typescript/lib",
+  "deno.enable": true,
+  "deno.unstable": true
 }
